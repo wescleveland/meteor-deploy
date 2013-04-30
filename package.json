@@ -21,6 +21,6 @@
   "dependencies": {
     "jake": "~0.5.8",
     "commander": "~1.1.1",
-    "ssh2": "~0.1.11"
+    "ssh2": "0.2.5"
   }
 }
